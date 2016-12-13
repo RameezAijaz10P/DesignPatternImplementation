@@ -1,2 +1,2 @@
 # DesignPatternImplementation
-Implemented design patterns (Decorator, Factory, Observer, Adapter, Iterator, Facade) in Java Spring MVC.
+Implemented design patterns (Strategy, Singleton, Observer, Adapter, Iterator, Template) in Java Spring MVC.
