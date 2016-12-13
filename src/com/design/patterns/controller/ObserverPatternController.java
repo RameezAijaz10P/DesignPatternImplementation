@@ -16,7 +16,7 @@ import java.util.Arrays;
 @Controller
 public class ObserverPatternController {
 
-    @RequestMapping(value = "/observer_pattern/publish", method = RequestMethod.GET, produces = "application/json")
+    @RequestMapping(value = "/observer_pattern/publishhh", method = RequestMethod.GET, produces = "application/json")
     public  @ResponseBody
     ObserverPatternModel strategyPattern(String values) {
         if(values == null || values.trim().equals(""))

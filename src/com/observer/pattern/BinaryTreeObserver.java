@@ -1,5 +1,7 @@
 package com.observer.pattern;
 
+import com.binary.tree.BinaryTree;
+
 import java.util.ArrayList;
 
 /**

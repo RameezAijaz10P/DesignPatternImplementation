@@ -1,6 +1,7 @@
 package com.observer.pattern;
 
-import javax.management.Query;
+import com.queue.Queue;
+
 import java.util.ArrayList;
 
 /**

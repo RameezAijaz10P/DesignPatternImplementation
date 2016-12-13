@@ -1,5 +1,7 @@
 package com.observer.pattern;
 
+import com.stack.Stack;
+
 import java.util.ArrayList;
 
 /**
